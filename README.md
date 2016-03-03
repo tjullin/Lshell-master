@@ -4,9 +4,14 @@
 - implement the function of the subshell
 - implement the function of redirection
 - implement the function to execute the command background
-#BasedOn
+
+#BasedOn:
 - The POSIX code library to support the operation on process
 - THe READLINE code library to support the operation on I/O
-#Development
+
+#Language
+- C
+
+#Development:
 - by tjullib@foxmail.com
 

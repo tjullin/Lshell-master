@@ -5,6 +5,7 @@
 - implement the function of redirection
 - implement the function to execute the command background
 
+<<<<<<< HEAD
 #BasedOn:
 - The POSIX code library to support the operation on process
 - THe READLINE code library to support the operation on I/O
@@ -13,5 +14,12 @@
 - C
 
 #Development:
+=======
+#BasedOn
+- The POSIX code library to support the operation on process
+- THe READLINE code library to support the operation on I/O
+
+#Development
+>>>>>>> 0110139994cb76ef2b1fa0a02394abc1bab41a4f
 - by tjullib@foxmail.com
 
